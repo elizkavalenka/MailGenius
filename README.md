@@ -1,5 +1,5 @@
 # MailGenius
 
- MailGuru is one of my first projects.
+ MailGenius is one of my first projects.
  
  This is a small landing page made only with HTML and CSS.
