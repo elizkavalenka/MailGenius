@@ -117,7 +117,7 @@ p, h1, h2, h3, h4,h5,h6 {
 }
 
 
-.call-to-action-desq {
+.call-to-action-descr {
 	margin-top: 20px;
 	font-size: 18px;
 	line-height: 1.33;
@@ -126,7 +126,7 @@ p, h1, h2, h3, h4,h5,h6 {
 	margin-bottom: 55px;
 }
 
-.call-to-action-desq > span {
+.call-to-action-descr > span {
 	color: #36A7B9;
 	font-weight: 700;
 }
